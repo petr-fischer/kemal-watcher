@@ -11,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   kemal-watcher:
-    github: faustinoaq/kemal-watcher
+    github: petr-fischer/kemal-watcher
 ```
 
 ## Usage
